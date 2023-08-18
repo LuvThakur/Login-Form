@@ -1,11 +1,11 @@
 import React from 'react';
-import ValidationPage from './ValidationPage';
+import LoginPage from './LoginPage';
 
 
 const App = () => {
   return (
     <div>
-      <ValidationPage />
+      <LoginPage />
     </div>
   );
 };
